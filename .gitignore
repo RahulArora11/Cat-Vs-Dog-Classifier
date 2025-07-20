@@ -1,0 +1,4 @@
+cats_vs_dogs_model.h5
+dogs_vs_cats/
+__pycache__/
+*.pyc
